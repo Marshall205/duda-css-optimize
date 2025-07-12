@@ -1,0 +1,17 @@
+{
+  "name": "duda-css-optimize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
+  }
+}
